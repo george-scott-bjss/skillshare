@@ -1,0 +1,27 @@
+{
+  "Music": {
+    "Guitar": true,
+    "Piano": true,
+    "Violin": true
+  },
+  "Cooking": {
+    "Baking": true,
+    "Sushi Making": true,
+    "Jam Making": true
+  },
+  "Crafting": {
+    "Knitting": true,
+    "Woodworking": true,
+    "Welding": true
+  },
+  "Arts": {
+    "Painting": true,
+    "Clay Making": true,
+    "Sculpting": true
+  },
+  "Coding": {
+    "JavaScript": true,
+    "Java": true,
+    "Python": true
+  }
+}

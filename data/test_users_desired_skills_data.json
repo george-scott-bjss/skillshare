@@ -1,0 +1,43 @@
+{
+  "kevin": {
+    "Painting": true,
+    "JavaScript": true,
+    "Welding": true
+  },
+  "annabel": {
+    "Painting": true,
+    "Sculpting": true
+  },
+  "george": {
+    "Painting": true,
+    "JavaScript": true
+  },
+  "rick": {
+    "Baking": true,
+    "Sculpting": true
+  },
+  "sarah": {
+    "JavaScript": true,
+    "Welding": true
+  },
+  "doug": {
+    "Baking": true,
+    "Sculpting": true
+  },
+  "chris": {
+    "Baking": true,
+    "Violin": true
+  },
+  "alex": {
+    "Jam Making": true,
+    "Violin": true
+  },
+  "perminder": {
+    "Jam Making": true,
+    "Welding": true
+  },
+  "sam": {
+    "Jam Making": true,
+    "Violin": true
+  }
+}

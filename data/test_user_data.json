@@ -1,0 +1,122 @@
+{
+  "kevin": {
+    "id": "1",
+    "name": "Kelvin Samson",
+    "email": "kelvin@sample.com",
+    "photoUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+    "role": "Member",
+    "info": "Product Designer at Facebook",
+    "welcomeMessage": "Hey there! Love to chat :-)",
+    "friends": [],
+    "teacher_ratings": [],
+    "student_ratings": []
+  },
+  "annabel": {
+    "id": "2",
+    "name": "Annabel Stone",
+    "email": "annie@sample.com",
+    "photoUrl": "https://randomuser.me/api/portraits/women/65.jpg",
+    "role": "Member",
+    "info": "Digital Marketer at Microsoft",
+    "welcomeMessage": "Hey there! Love to chat :-)",
+    "friends": [],
+    "teacher_ratings": [],
+    "student_ratings": []
+  },
+  "george": {
+    "id": "3",
+    "name": "George Scott",
+    "email": "george@george.com",
+    "photoUrl": "https://rudranibanikmd.com/wp-content/uploads/2017/02/pexels-photo-736716.jpeg",
+    "role": "Member",
+    "info": "Student at Northcodrs",
+    "welcomeMessage": "Please tell me how to code!",
+    "friends": [],
+    "teacher_ratings": [],
+    "student_ratings": []
+  },
+  "rick": {
+    "id": "4",
+    "name": "Rick Kay",
+    "email": "berbakay@hotmail.com",
+    "photoUrl": "https://www.thetelegraphandargus.co.uk/resources/images/11574659?type=responsive-gallery-fullscreen",
+    "role": "Member",
+    "info": "Business guru",
+    "welcomeMessage": "Catch my stream tomorrow night!",
+    "friends": [],
+    "teacher_ratings": [4, 5, 3],
+    "student_ratings": []
+  },
+  "sarah": {
+    "id": "5",
+    "name": "Sarah Scott",
+    "email": "sarah123@gmail.com",
+    "photoUrl": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/EEEA/production/_101926116_2croppedemoji.jpg",
+    "role": "Member",
+    "info": "Cat Lover Extraordinaire",
+    "welcomeMessage": "I love wine!",
+    "friends": [],
+    "teacher_ratings": [],
+    "student_ratings": []
+  },
+  "doug": {
+    "id": "6",
+    "name": "Doug Northcoders",
+    "email": "dougie@yahoo.co.uk",
+    "photoUrl": "https://northcoders.com/images/staff-headshots/doug-national-coding-boot-camp-manchester.jpg",
+    "role": "Member",
+    "info": "Northcoders Tutor",
+    "welcomeMessage": "Show me your ",
+    "friends": [],
+    "teacher_ratings": [],
+    "student_ratings": []
+  },
+  "chris": {
+    "id": "7",
+    "name": "Chris Kenyon",
+    "email": "chris@gmail.com",
+    "photoUrl": "https://ichef.bbci.co.uk/news/800/cpsprodpb/12A9B/production/_111434467_gettyimages-1143489763.jpg",
+    "role": "Member",
+    "info": "This is Chris",
+    "welcomeMessage": "Hi this is Chris!",
+    "friends": [],
+    "teacher_ratings": [],
+    "student_ratings": []
+  },
+  "alex": {
+    "id": "8",
+    "name": "Alex Brown",
+    "email": "alex@gmail.com",
+    "photoUrl": "https://ichef.bbci.co.uk/news/800/cpsprodpb/17F3C/production/_115180189_biden_2d87yw9.jpg",
+    "role": "Member",
+    "info": "This is Alex",
+    "welcomeMessage": "Hi this is Alex!",
+    "friends": [],
+    "teacher_ratings": [],
+    "student_ratings": []
+  },
+  "perminder": {
+    "id": "9",
+    "name": "Perminder Dhillon",
+    "email": "perminder@gmail.com",
+    "photoUrl": "https://ichef.bbci.co.uk/news/800/cpsprodpb/DEEC/production/_114686075_cropped_gettyimages-578551318.jpg",
+    "role": "Member",
+    "info": "This is Perminder",
+    "welcomeMessage": "Hi this is Perminder!",
+    "friends": [],
+    "teacher_ratings": [],
+    "student_ratings": []
+  },
+  "sam": {
+    "id": "9",
+    "name": "Sam Caine",
+    "email": "caine_sam@gmail.com",
+    "photoUrl": "https://northcoders.com/images/staff-headshots/Sam-Caine-Northcoders-Director.jpg",
+    "role": "Member",
+    "info": "Northcoders COO",
+    "welcomeMessage": "Hi it's Sam",
+    "friends": [],
+    "teacher_ratings": [],
+    "student_ratings": []
+  }
+}
