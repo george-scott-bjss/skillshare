@@ -4,10 +4,10 @@ Skillshr is a web application that allows users to create accounts and list skil
 
 ## Using the app
 
-To run skillshare, please insure you have NodeJS installed.
+To run skillshare, please ensure you have NodeJS installed.
 
 Clone the repository to a local directory. navigate to the /skillshare directory and run the 'npm i' command in a terminal to install all dependencies for the project.
 
 Then, in the same directory, run the 'npm start' to run the React app on a local port.
 
-Please note that responsive styling is still a WIP! The app has been optimised for viewing on an iPhone X resolution, which can be emulated through many browser developer tools.
+The app has been optimised for viewing on an iPhone X resolution, which can be emulated through many browser developer tools.
